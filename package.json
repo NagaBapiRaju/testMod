@@ -1,0 +1,22 @@
+{
+  "name": "testmod",
+  "version": "1.0.0",
+  "description": "testing the native module in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "testmod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NagaBapiRaju/testMod.git"
+  },
+  "keywords": [
+    "testmodbapi"
+  ],
+  "author": "bapi raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NagaBapiRaju/testMod/issues"
+  },
+  "homepage": "https://github.com/NagaBapiRaju/testMod#readme"
+}
